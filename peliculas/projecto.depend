@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474334226 source:c:\users\alumno.lab4pc\desktop\peliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474334226 c:\users\alumno.lab4pc\desktop\peliculas\funciones.h
+
